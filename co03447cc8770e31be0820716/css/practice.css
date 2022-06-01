@@ -1,0 +1,49 @@
+body {
+    background: black;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin: 0px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.hero {
+    padding: 200px;
+    font-size: 25px;
+    background-image: url("img/background-leather.webp");
+    background-size: cover;
+}
+
+h1 {
+    font-size: 60px;
+}
+ 
+h2 {
+    font-size: 40px;
+}
+
+.trade {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.columns {
+    display: flex;
+}
+
+.col {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+} 
+
+.footer {
+    background: #6af;
+    color: black;
+    font-size: 25px;
+    padding: 40px;
+}
